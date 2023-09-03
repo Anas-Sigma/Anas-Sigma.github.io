@@ -1,1 +1,11 @@
-# Anas-Sigma.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anas Alpha Website</title>
+</head>
+<body>
+    <h1>Anas is here</h1>
+</body>
+</html>
